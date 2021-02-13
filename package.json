@@ -1,0 +1,24 @@
+{
+  "name": "web-application-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eastvarga/web-application-1.git"
+  },
+  "author": "Alexander <ropoloid@bigmir.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eastvarga/web-application-1/issues"
+  },
+  "homepage": "https://github.com/Eastvarga/web-application-1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
